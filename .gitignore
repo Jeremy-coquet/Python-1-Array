@@ -1,0 +1,6 @@
+
+**/venv_datascience/
+
+**/__pycache__/
+
+**/.idea
